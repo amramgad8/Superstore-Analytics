@@ -39,6 +39,7 @@ The dataset represents sales data for a retail company from **March 1, 2015, to 
 This data allows for deep analysis of trends, performance gaps, and customer preferences.
 
 📸 *Sample data preview will be shown here (image placeholder)*
+![Dataset Preview](https://github.com/amramgad8/Superstore-Analytics/blob/a24f31d9e5645fdbc210b7f592e777e9762eb7cb/data.png?raw=true)
 
 ---
 
