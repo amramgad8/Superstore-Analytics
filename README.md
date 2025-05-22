@@ -79,14 +79,12 @@ Built multiple dashboards with KPIs, charts, and maps for deep business insights
 
 Below are sample dashboard views created using Power BI:
 
-<h3>📊 Dashboards</h3>
-<p>Below are sample dashboard views created using Power BI:</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/amramgad8/Superstore-Analytics/blob/2f5c00ad08fdd61c2af828c1b6810494b5c84610/Dashboard_1.png?raw=true" alt="Dashboard 1" width="250"/>
-  <img src="https://github.com/amramgad8/Superstore-Analytics/blob/2f5c00ad08fdd61c2af828c1b6810494b5c84610/Dashbord_2.png?raw=true" alt="Dashboard 2" width="250"/>
-  <img src="https://github.com/amramgad8/Superstore-Analytics/blob/2f5c00ad08fdd61c2af828c1b6810494b5c84610/Dashboard_3.png?raw=true" alt="Dashboard 3" width="250"/>
-  <img src="https://github.com/amramgad8/Superstore-Analytics/blob/2f5c00ad08fdd61c2af828c1b6810494b5c84610/Dashboard_4.png?raw=true" alt="Dashboard 4" width="250"/>
+  <img src="https://github.com/amramgad8/Superstore-Analytics/blob/2f5c00ad08fdd61c2af828c1b6810494b5c84610/Dashboard_1.png?raw=true" alt="Dashboard 1" width="300"/>
+  <img src="https://github.com/amramgad8/Superstore-Analytics/blob/2f5c00ad08fdd61c2af828c1b6810494b5c84610/Dashbord_2.png?raw=true" alt="Dashboard 2" width="300"/>
+  <img src="https://github.com/amramgad8/Superstore-Analytics/blob/2f5c00ad08fdd61c2af828c1b6810494b5c84610/Dashboard_3.png?raw=true" alt="Dashboard 3" width="300"/>
+  <img src="https://github.com/amramgad8/Superstore-Analytics/blob/2f5c00ad08fdd61c2af828c1b6810494b5c84610/Dashboard_4.png?raw=true" alt="Dashboard 4" width="300"/>
 </div>
 
 
