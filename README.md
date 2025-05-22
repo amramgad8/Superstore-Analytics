@@ -67,7 +67,7 @@ Created a Star Schema model using:
 * Fact table: `Fact_Sales`
 * Dimension tables: `Dim_Date`, `Dim_Product`, `Dim_Customer`, `Dim_Location`
 
-📸 *![Data Model](./images/model.png)*
+<img src="https://github.com/amramgad8/Superstore-Analytics/blob/1d89e5d481d982ab016aef759a1f446fa9f1330d/model.png?raw=true" alt="Data Model" width="600"/>
 
 ### 5. **Data Analysis & Visualization**
 
