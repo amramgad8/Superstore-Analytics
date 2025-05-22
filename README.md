@@ -44,7 +44,7 @@ This data allows for deep analysis of trends, performance gaps, and customer pre
 ---
 
 ## 🔄 Project Workflow
-![Project Workflow](https://github.com/amramgad8/Superstore-Analytics/blob/6c3694fba978061931ec8e8afdc76b7b90aef31a/_-%20visual%20selection%20(10).png?raw=true)
+<img src="https://github.com/amramgad8/Superstore-Analytics/blob/6c3694fba978061931ec8e8afdc76b7b90aef31a/_-%20visual%20selection%20(10).png?raw=true" alt="Project Workflow" width="600"/>
 
 ### 1. **Data Import**
 
@@ -58,7 +58,7 @@ Removed duplicates, fixed errors, and handled missing values to ensure data accu
 
 Transformed columns, added calculated fields, and ensured proper data types.
 
-![Data Preprocessing](https://github.com/amramgad8/Superstore-Analytics/blob/1d89e5d481d982ab016aef759a1f446fa9f1330d/Screenshot%202025-05-22%20164621.png?raw=true)
+<img src="https://github.com/amramgad8/Superstore-Analytics/blob/1d89e5d481d982ab016aef759a1f446fa9f1330d/Screenshot%202025-05-22%20164621.png?raw=true" alt="Data Preprocessing" width="600"/>
 
 ### 4. **Data Modeling**
 
