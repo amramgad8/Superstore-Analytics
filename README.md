@@ -44,6 +44,7 @@ This data allows for deep analysis of trends, performance gaps, and customer pre
 ---
 
 ## 🔄 Project Workflow
+![Project Workflow](https://github.com/amramgad8/Superstore-Analytics/blob/6c3694fba978061931ec8e8afdc76b7b90aef31a/_-%20visual%20selection%20(10).png?raw=true)
 
 ### 1. **Data Import**
 
