@@ -58,7 +58,7 @@ Removed duplicates, fixed errors, and handled missing values to ensure data accu
 
 Transformed columns, added calculated fields, and ensured proper data types.
 
-📸 *![Workflow](./images/Workflow.png)*
+![Data Preprocessing](https://github.com/amramgad8/Superstore-Analytics/blob/1d89e5d481d982ab016aef759a1f446fa9f1330d/Screenshot%202025-05-22%20164621.png?raw=true)
 
 ### 4. **Data Modeling**
 
